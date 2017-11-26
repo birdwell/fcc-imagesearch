@@ -1,0 +1,23 @@
+{
+  "name": "image search al",
+  "description": "search for images",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-prettify": "0.0.9",
+    "firebase-admin": "^5.5.1",
+    "google-images": "^2.1.0",
+    "mongodb": "^2.2.33",
+    "node-bing-api": "^3.2.2"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
+}
